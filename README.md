@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ujju79sharma [UJJWAL SHARMA]
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Front End basics.
-- 💞️ I’m looking to collaborate on full stack development projects.
+- 💞️ I’m looking to collaborate on spring framework projects.
 - 📫 How to reach me : ujjwalsharma28.1994@gmail.com
 
 <!---
